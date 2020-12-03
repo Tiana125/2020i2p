@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+doc_i2p/practicals/data/
+doc_i2p/practicals/data/*

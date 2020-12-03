@@ -31,7 +31,7 @@ It contains information about all listings from the date scraped, which could be
 
 ### 5. What useful information is it missing?
 
-Regarding the _property information_ section, there is no column that specifies whether the property is wheelchair accessible or pet friendly. A cleaning fee, usually applicable to every tenant, could be added to the _price_ section. There is no _past bookings_ information as well. 
+Structurally, columns with most information missing are: "neighbourhood_group_cleansed", "bathrooms", and "calendar_updated". Column with no information is "license". Other information that could be added to fulfill more research purposes are:  _past bookings_, whether the property is wheelchair accessible or pet friendly, etc. .
 
 ---
 
